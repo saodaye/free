@@ -1,6 +1,4 @@
-# free  SaoDaye.Com
-
-# 免费分享
+# 免费分享 SaoDaye.Com
 
 本站会分享一些 Shadowsocks、ShadowsocksR、Brook、Goflyway 等代理免费账号。
 
